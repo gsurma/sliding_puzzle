@@ -1,0 +1,33 @@
+PODS:
+  - paper-onboarding (4.0.1)
+  - PKHUD (5.0.0)
+  - SwiftyGif (3.1.1)
+
+DEPENDENCIES:
+  - paper-onboarding
+  - PKHUD (~> 5.0)
+  - SwiftyGif (from `https://github.com/kirualex/SwiftyGif`, branch `swift4`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - paper-onboarding
+    - PKHUD
+
+EXTERNAL SOURCES:
+  SwiftyGif:
+    :branch: swift4
+    :git: https://github.com/kirualex/SwiftyGif
+
+CHECKOUT OPTIONS:
+  SwiftyGif:
+    :commit: 4244b01b1c0692231fde1ce3e9a9fe13954aefb3
+    :git: https://github.com/kirualex/SwiftyGif
+
+SPEC CHECKSUMS:
+  paper-onboarding: ecb43c83e4e4f90137f228b8e9d87ca5aee591ee
+  PKHUD: 3c001512c6e002091184197a8de7a20420786e3b
+  SwiftyGif: 752fb942da1059f14f9525e38b2c6d45d90df563
+
+PODFILE CHECKSUM: be1e028eb73225c051aedf39fdb29e29a167cdd1
+
+COCOAPODS: 1.5.3
