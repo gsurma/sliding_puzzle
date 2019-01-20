@@ -64,6 +64,4 @@ extension Tile: Hashable {
     static func ==(lhs: Tile, rhs: Tile) -> Bool {
         return lhs.position == rhs.position && lhs.value == rhs.value
     }
-    
-    
 }

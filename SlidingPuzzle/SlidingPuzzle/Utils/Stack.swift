@@ -7,7 +7,9 @@
 //
 
 import Foundation
+
 public struct Stack<T> {
+    
     fileprivate var array = [T]()
     
     public var isEmpty: Bool {

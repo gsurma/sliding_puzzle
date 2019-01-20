@@ -15,6 +15,7 @@ final class CostTranspositionTable {
 }
 
 final class Node {
+    
     let grid: [Tile]
     let boardManager: GameBoardManager
     let size: Int

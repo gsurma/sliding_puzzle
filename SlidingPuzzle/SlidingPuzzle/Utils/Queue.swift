@@ -9,6 +9,7 @@
 import Foundation
 
 public struct Queue<T> {
+    
     fileprivate var array = [T]()
     
     public var count: Int {
