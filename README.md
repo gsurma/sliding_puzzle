@@ -15,3 +15,19 @@ Swift implementation of a classic Sliding Puzzle game. It contains [Iterative De
 
 <img src="assets/screenshot_1.png" width="300">
 <img src="assets/screenshot_2.png" width="300">
+
+## Author
+
+**Greg (Grzegorz) Surma**
+
+[**PORTFOLIO**](https://gsurma.github.io)
+
+[**GITHUB**](https://github.com/gsurma)
+
+[**BLOG**](https://medium.com/@gsurma)
+
+<a href="https://www.paypal.com/paypalme2/grzegorzsurma115">
+  <img alt="Support via PayPal" src="https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg"/>
+</a>
+
+
